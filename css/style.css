@@ -1,0 +1,23 @@
+.topsection {
+	background-image: url("../images/juice.jpg");
+    height: 100px;
+    background-position: center;
+    background-size: cover;	
+}
+#content{
+	background-color: cornflowerblue;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+#content form {
+}
+#content img {
+	width:600px;
+	height: 200px;
+}
+footer {
+	background-color: chartreuse;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
